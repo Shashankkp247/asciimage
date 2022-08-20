@@ -1,10 +1,6 @@
 # ASCIIMAGE
-<br>
 #### Video Demo:  todo
-<br>
 #### Description:
-
-<br>
 Hello, I am Shashank and this is my project named Asciimage which is a **cli tool** that uses a library called **ascii_to_image** to convert to an image into ascii format where it creates a text file with the ascii image which has the same name as the image given to.<br>
 
 **NOTE : This tool requires Python 3 and image file format must be .jpg**<br>
