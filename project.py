@@ -13,7 +13,7 @@ def main():
     #Calling the Parser and assigning it's return value to arugs variable
     arugs, parser = parsr()
 
-    if not arugs:
+    if arugs:
         passed = arg_check(arugs)
     else:
         sys.exit('Incorrect Arguements')
