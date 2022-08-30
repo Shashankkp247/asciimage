@@ -1,2 +1,2 @@
 image_to_Ascii
-argparser
+argparse
